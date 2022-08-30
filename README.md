@@ -3,7 +3,7 @@ Programa desenvolvido para realizar um somatório entre números divisíveis por
 
 # Como executar:
 
-  1- Dentro do Github, copie o link HTTPS no botão "CODE".
+  1- Dentro do Github, copie o link HTTPS no botão "Code".
   
   2- Entre em uma pasta pelo terminal (CMD) e digite o comando: git clone [link copiado]
   
