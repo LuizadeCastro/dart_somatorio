@@ -11,5 +11,7 @@ Programa desenvolvido para realizar um somatório entre números divisíveis por
   6- Forneça o número inteiro e receba o resultado.
   
   Obs: Para cada teste, é necessário rodar novamente dart run soma.dart
+  
+  
 
 
